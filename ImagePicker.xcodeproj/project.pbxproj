@@ -108,8 +108,7 @@
 				0D3B7D1D2748EF7900755452 /* AppDelegate.m */,
 				0D3B7D1F2748EF7900755452 /* SceneDelegate.h */,
 				0D3B7D202748EF7900755452 /* SceneDelegate.m */,
-				0D3B7D222748EF7900755452 /* ViewController.h */,
-				0D3B7D232748EF7900755452 /* ViewController.m */,
+				0D3B7D512748F41100755452 /* Controllers */,
 				0D3B7D252748EF7900755452 /* Main.storyboard */,
 				0D3B7D282748EF7B00755452 /* Assets.xcassets */,
 				0D3B7D2A2748EF7B00755452 /* LaunchScreen.storyboard */,
@@ -134,6 +133,15 @@
 				0D3B7D442748EF7B00755452 /* ImagePickerUITestsLaunchTests.m */,
 			);
 			path = ImagePickerUITests;
+			sourceTree = "<group>";
+		};
+		0D3B7D512748F41100755452 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				0D3B7D222748EF7900755452 /* ViewController.h */,
+				0D3B7D232748EF7900755452 /* ViewController.m */,
+			);
+			path = Controllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
